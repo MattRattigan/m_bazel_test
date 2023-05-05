@@ -4,3 +4,10 @@ bazel-*
 /bazel-testlogs
 /bazel-gengiles
 
+__pycache__
+
+.idea
+
+node_modules
+
+.ijwb
